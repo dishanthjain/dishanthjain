@@ -1,7 +1,7 @@
 ## Hi, I'm Dishanth ✨
 
 🧠 Computer Science student at sahyadri<br/>
-🔮 I recently opened a startup company named mindrix_ai:https://adaptive-ai-presence.lovable.app/<br/>
+🔮 Me and my friend recently opened a startup company named mindrix_ai:https://adaptive-ai-presence.lovable.app/<br/>
 🎥 My instagram account https://www.instagram.com/dishanth_jain<br/>
 💻 My favourite launguage is C, Python<br/>
 
