@@ -6,7 +6,7 @@
 💻 My favourite launguage is C, Python<br/>
 
 # 💫 About Me:
-Sahyadri<br>mindrix_ai<br>Google<br>C and Python<br>Tech and Frontend dev<br>Love to expore engineering<br>
+Sahyadri College of Engineering<br>Google<br>C and Python<br>Love to expore engineering<br>
 
 
 
