@@ -1,56 +1,112 @@
-# Hey, I'm Dishanth Jain 👋
+# 👋 Hey, I'm Dishanth Jain!
 
-### Computer Science Engineering Student | Developer | Tech Enthusiast
+### 💻 Computer Science Engineering Student | Aspiring Software Engineer | AI Enthusiast
 
-I'm a Computer Science Engineering student at Sahyadri College of Engineering who enjoys building projects, learning new technologies, and exploring software development.
+Welcome to my GitHub profile! I'm a Computer Science Engineering student at **Sahyadri College of Engineering**, passionate about software development, artificial intelligence, and building projects that solve real-world problems.
 
-- 🎓 Studying Computer Science Engineering at Sahyadri College of Engineering
-- 🚀 Co-building [Mindrix AI](https://adaptive-ai-presence.lovable.app/)
-- 💻 Currently learning C and Python
-- 🎯 Working towards a career in software engineering
-- 🌐 Portfolio: [Visit my portfolio](https://dishanthjainportfolio.netlify.app/)
+- 🎓 Pursuing Computer Science Engineering at Sahyadri
+- 🚀 Co-building **Mindrix AI** — exploring AI-powered solutions
+- 💡 Interested in software engineering, AI, cloud computing, and full-stack development
+- 🌱 Currently strengthening my skills in C, Python, JavaScript, and problem-solving
+- 🎯 Goal: Become a skilled software engineer and work on impactful technology
+- ⚡ Motto: *Time is precious. Waste it wisely.*
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dishanthjainportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dishanth-jain-5a792932a)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dishanth_jain)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dishanthjain07@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/dishanth-jain-86a172381/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://dishanthjainportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://instagram.com/dishanth_jain">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:dishanthjain07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Featured Initiative
 
-**Languages**
+### 🧠 Mindrix AI
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+Working with a friend on **Mindrix AI**, an initiative focused on exploring AI-powered solutions and building useful digital experiences.
 
-**Tools & Technologies**
+🔗 **Explore the project:** [Mindrix AI](https://adaptive-ai-presence.lovable.app/)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,js" alt="C, Python, JavaScript"/>
+</p>
+
+### 🌐 Development, Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,sqlite,mysql,firebase,gcp,git,github,vscode" alt="Development technologies and tools"/>
+</p>
+
+*Some technologies above represent areas to explore or learn; they aren't necessarily all technologies used in completed projects.*
+
+---
+
+## 📂 Projects
+
+I enjoy turning ideas into working applications and learning through hands-on development.
+
+| Project | Description |
+|---|---|
+| 🛡️ Warranty Vault | A project focused on organizing warranty information and related documents. |
+| 🐾 VetStock | A project exploring veterinary inventory management. |
+| 🧠 Mindrix AI | An AI-focused initiative built with a friend. |
+
+**Explore more:** [View all my repositories →](https://github.com/dishanthjain?tab=repositories)
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dishanthjain&show_icons=true&theme=github_dark&hide_border=true)
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dishanthjain&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishanthjain&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dishanthjain&layout=compact&theme=github_dark&hide_border=true)
+<p>
+  <img src="https://streak-stats.demolab.com?user=dishanthjain&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
 ---
 
-## 🎯 My Goal
+## 🏆 Achievements & Certifications
 
-To become a skilled software engineer by continuously learning, building meaningful projects, and improving my problem-solving skills.
+I'm continuously learning through technical courses, certifications, and hands-on projects.
+
+- 📚 Exploring cloud computing and artificial intelligence
+- 🧩 Improving programming and problem-solving skills
+- 🚀 Building projects to strengthen practical development experience
+
+🔗 [Explore my GitHub repositories](https://github.com/dishanthjain?tab=repositories)
 
 ---
 
-*“Time is precious. Waste it wisely.”*
+## 🤝 Let's Build Something!
 
+I'm interested in connecting with developers, collaborating on projects, exploring AI, and learning from the developer community.
+
+**Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dishanth-jain-86a172381/) or explore my [projects on GitHub](https://github.com/dishanthjain?tab=repositories).**
+
+---
+
+<p align="center">
+  <i>"Great things are built one line of code at a time."</i>
+</p>
